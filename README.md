@@ -34,4 +34,4 @@ I am an engineer specializing in Generative AI, Large Language Models (LLMs), an
 * **Enterprise RAG Pipeline:** A semantic search and context-injection system built with LangChain and ChromaDB.
 * **structIQe Automation Suite:** C#/.NET desktop applications for zero-touch software deployment and event-driven cloud synchronization.
 
-📫 **Let's connect:** [LinkedIn](https://github.com/Aditya-1904) | adityamehta1904@gmail.com
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aditya-mehta-5612761a6/) | adityamehta1904@gmail.com
